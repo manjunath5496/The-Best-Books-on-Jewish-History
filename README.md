@@ -98,13 +98,13 @@ Renaissance and Early Modern Period </a></b></li>
 
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(70).pdf" style="text-decoration:none;">The History of the Jewish Khazars </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(39).pdf" style="text-decoration:none;">As Light Before Dawn: The Inner World of a Medieval Kabbalist</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(40).pdf" style="text-decoration:none;">Wisdom of Solomon 10: A Jewish Hellenistic Reinterpretation of Early Israelite History through Sapiential Lenses</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(71).pdf" style="text-decoration:none;">The Last Jews of Kerala: The Two Thousand Year History of India's Forgotten Jewish Community</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(72).pdf" style="text-decoration:none;">The Regal Way: The Life and Times of Rabbi Israel of Ruzhin</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(41).pdf" style="text-decoration:none;">A History of Modern Jewish Religious Philosophy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(73).pdf" style="text-decoration:none;">The Hebrew Bible Reborn: From Holy Scripture to the Book of Books</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(42).pdf" style="text-decoration:none;">Rewriting Ancient Jewish History: The History of the Jews in Roman Times and the New Historical Method</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(43).pdf" style="text-decoration:none;">Philosophy and the Jewish Tradition </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(74).pdf" style="text-decoration:none;">A New Physiognomy of Jewish Thinking: Critical Theory After Adorno as Applied to Jewish Thought</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(75).pdf" style="text-decoration:none;">King David: A Biography </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(44).pdf" style="text-decoration:none;">Sects and Sectarianism in Jewish History </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(45).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(46).pdf" style="text-decoration:none;">Jewish History, Jewish Religion </a></b></li>
