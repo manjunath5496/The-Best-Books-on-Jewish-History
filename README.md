@@ -21,19 +21,20 @@
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(17).pdf" style="text-decoration:none;">The Impossible Jew: Identity and the Reconstruction of Jewish American Literary History</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(18).pdf" style="text-decoration:none;">Spinoza: A Life</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(19).pdf" style="text-decoration:none;">The Worlds of Sholem Aleichem: The Remarkable Life and Afterlife of the Man Who Created Tevye  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(20).pdf" style="text-decoration:none;">An Empire of Their Own: How the Jews Invented Hollywood </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(21).pdf" style="text-decoration:none;">Knish: In Search of the Jewish Soul Food </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(22).pdf" style="text-decoration:none;">Ernst Kantorowicz: A Life </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(23).pdf" style="text-decoration:none;">A Polish Doctor in the Nazi Camps: My Mother's Memories of Imprisonment, Immigration, and a Life Remade</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(24).pdf" style="text-decoration:none;">The Coen brothers</a></b></li>                                                             
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(25).pdf" style="text-decoration:none;">Lev Shternberg: Anthropologist, Russian Socialist, Jewish Activist</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(26).pdf" style="text-decoration:none;">Mark Rothko: Toward the Light in the Chapel </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(27).pdf" style="text-decoration:none;">A Jewish Communist in Weimar Germany </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(28).pdf" style="text-decoration:none;">Portrait of Jacques Derrida as a Young Jewish Saint</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(29).pdf" style="text-decoration:none;">Fromms: How Julius Fromm's Condom Empire Fell to the Nazis</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(30).pdf" style="text-decoration:none;">A Time Out of Joint: A Journey from Nazi Germany to Post-War Britain</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(18).pdf" style="text-decoration:none;">Jewish Masculinities</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(19).pdf" style="text-decoration:none;">The history of Jewish Christianity in the early Roman Empire (30-135 A.D.)  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(20).pdf" style="text-decoration:none;">Pastrami on Rye: An Overstuffed History of the Jewish Deli </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(21).pdf" style="text-decoration:none;">The Chosen Few: How Education Shaped Jewish History, 70-1492 </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(22).pdf" style="text-decoration:none;">Aleksandr Solzhenitsyn 200 Years Together Russo-Jewish History </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(23).pdf" style="text-decoration:none;">Reading the First Century: On Reading Josephus and Studying Jewish History of the First Century</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(24).pdf" style="text-decoration:none;">The making of a forefather: Abraham in Islamic and Jewish exegetical narratives</a></b></li>                                                             
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(25).pdf" style="text-decoration:none;">From Diplomacy to Resistance: A History of Jewish Palestine 1939–1945</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(26).pdf" style="text-decoration:none;">Jewish Space in Central and Eastern Europe</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(27).pdf" style="text-decoration:none;">The Jewish Body: Corporeality, Society, and Identity in the
+Renaissance and Early Modern Period </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(28).pdf" style="text-decoration:none;">Jewish History and Jewish Memory : Essays in Honor of Yosef Hayim Yerushalmi</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(29).pdf" style="text-decoration:none;">The Faith of Fallen Jews: Yosef Hayim Yerushalmi and the Writing of Jewish History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(30).pdf" style="text-decoration:none;">You Never Call! You Never Write!: A History of the Jewish Mother</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(31).pdf" style="text-decoration:none;">Why This World: A Biography of Clarice Lispector</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(32).pdf" style="text-decoration:none;">The Enigma of Isaac Babel</a></b></li>      
  
