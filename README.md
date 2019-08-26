@@ -105,8 +105,8 @@ Renaissance and Early Modern Period </a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(74).pdf" style="text-decoration:none;">A New Physiognomy of Jewish Thinking: Critical Theory After Adorno as Applied to Jewish Thought</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(75).pdf" style="text-decoration:none;">King David: A Biography </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(44).pdf" style="text-decoration:none;">Sects and Sectarianism in Jewish History </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(45).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(76).pdf" style="text-decoration:none;">The Consuming Temple: Jews, Department Stores, and the Consumer Revolution in Germany, 1880–1940</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(77).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(46).pdf" style="text-decoration:none;">Jewish History, Jewish Religion </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(47).pdf" style="text-decoration:none;">Our Story: An Introductory Outline of Jewish History</a></b></li>
 
