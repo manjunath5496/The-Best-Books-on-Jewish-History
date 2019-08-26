@@ -145,6 +145,9 @@ Renaissance and Early Modern Period </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(101).pdf" style="text-decoration:none;">Inquisition: The Reign of Fear</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(103).pdf" style="text-decoration:none;">From Mesopotamia To Modernity: Ten Introductions To Jewish History And Literature</a></b></li>
                                 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(37).pdf" style="text-decoration:none;">The Story of the Jews: Finding the Words 1000 BC-1492 AD </a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(58).pdf" style="text-decoration:none;">The Invention of the Jewish People</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(102).pdf" style="text-decoration:none;">The Gifts of the Jews</a></b></li>
  
  </ul>
