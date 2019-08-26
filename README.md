@@ -113,7 +113,7 @@ Renaissance and Early Modern Period </a></b></li>
 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(80).pdf" style="text-decoration:none;">David: Shepherd, Psalmist, King</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(49).pdf" style="text-decoration:none;">The History of Jewish Education in South Africa  </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(81).pdf" style="text-decoration:none;">David and Solomon: In Search of the Bible's Sacred Kings and the Roots of the Western Tradition  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(50).pdf" style="text-decoration:none;">Kiev, Jewish Metropolis: A History, 1859-1914</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(51).pdf" style="text-decoration:none;">Major Turning Points in Jewish Intellectual History</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(52).pdf" style="text-decoration:none;">New Directions in Anglo-Jewish History</a></b></li>
