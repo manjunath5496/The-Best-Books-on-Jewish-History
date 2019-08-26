@@ -56,16 +56,16 @@ Renaissance and Early Modern Period </a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(42).pdf" style="text-decoration:none;">Rewriting Ancient Jewish History: The History of the Jews in Roman Times and the New Historical Method</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(43).pdf" style="text-decoration:none;">Philosophy and the Jewish Tradition </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(44).pdf" style="text-decoration:none;">Straddling Worlds: The Jewish-American Journey of Professor Richard W. Leopold </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(45).pdf" style="text-decoration:none;">A Jewish Philosopher of Baghdad </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(46).pdf" style="text-decoration:none;">Who Was Jesus? Fingerprints of the Christ </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(47).pdf" style="text-decoration:none;">Rav Kook: Mystic in a Time of Revolution</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(44).pdf" style="text-decoration:none;">Sects and Sectarianism in Jewish History </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(45).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(46).pdf" style="text-decoration:none;">Jewish History, Jewish Religion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(47).pdf" style="text-decoration:none;">Our Story: An Introductory Outline of Jewish History</a></b></li>
 
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(48).pdf" style="text-decoration:none;">In Memory of Elaine Marks: Life Writing, Writing Death</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(49).pdf" style="text-decoration:none;">The Dead Sea Scrolls: A Biography  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(50).pdf" style="text-decoration:none;">My War against the Nazis</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(48).pdf" style="text-decoration:none;">Jewish History : An Essay in the Philosophy of History</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(49).pdf" style="text-decoration:none;">The History of Jewish Education in South Africa  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(50).pdf" style="text-decoration:none;">Kiev, Jewish Metropolis: A History, 1859-1914</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(51).pdf" style="text-decoration:none;">Ana Pauker: The Rise and Fall of a Jewish Communist</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(52).pdf" style="text-decoration:none;">Alfred Kazin: A Biography</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(53).pdf" style="text-decoration:none;">Wandering Soul: The Dybbuk's Creator, S. An-sky </a></b></li>
