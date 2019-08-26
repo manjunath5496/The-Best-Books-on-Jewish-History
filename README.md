@@ -82,7 +82,52 @@ Renaissance and Early Modern Period </a></b></li>
 
                               
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(62).pdf" style="text-decoration:none;">In a Maelstrom: The History of Russian-Jewish Prose (1860–1940)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(63).pdf" style="text-decoration:none;">Jewish frontiers: Essays on bodies, histories, and identities</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(64).pdf" style="text-decoration:none;">Jewish History in 100 Nutshells</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(65).pdf" style="text-decoration:none;">A New Physiognomy of Jewish Thinking</a></b></li>      
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(66).pdf" style="text-decoration:none;">Observing America's Jews Brandeis Series in American Jewish History, Culture, and Life</a></b></li> 
+ 
+ 
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(67).pdf" style="text-decoration:none;">Great Lives from History: Jewish Americans</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(68).pdf" style="text-decoration:none;">Jewish Souls, Bureaucratic Minds</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(69).pdf" style="text-decoration:none;">Jews in Christian America</a></b></li>
 
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(70).pdf" style="text-decoration:none;">The History of the Jewish Khazars </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(39).pdf" style="text-decoration:none;">As Light Before Dawn: The Inner World of a Medieval Kabbalist</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(40).pdf" style="text-decoration:none;">Wisdom of Solomon 10: A Jewish Hellenistic Reinterpretation of Early Israelite History through Sapiential Lenses</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(41).pdf" style="text-decoration:none;">A History of Modern Jewish Religious Philosophy</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(42).pdf" style="text-decoration:none;">Rewriting Ancient Jewish History: The History of the Jews in Roman Times and the New Historical Method</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(43).pdf" style="text-decoration:none;">Philosophy and the Jewish Tradition </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(44).pdf" style="text-decoration:none;">Sects and Sectarianism in Jewish History </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(45).pdf" style="text-decoration:none;">Zionist Israel and the Question of Palestine </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(46).pdf" style="text-decoration:none;">Jewish History, Jewish Religion </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(47).pdf" style="text-decoration:none;">Our Story: An Introductory Outline of Jewish History</a></b></li>
+
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(48).pdf" style="text-decoration:none;">Jewish History : An Essay in the Philosophy of History</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(49).pdf" style="text-decoration:none;">The History of Jewish Education in South Africa  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(50).pdf" style="text-decoration:none;">Kiev, Jewish Metropolis: A History, 1859-1914</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(51).pdf" style="text-decoration:none;">Major Turning Points in Jewish Intellectual History</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(52).pdf" style="text-decoration:none;">New Directions in Anglo-Jewish History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(53).pdf" style="text-decoration:none;">The Plunder of Jewish Property during the Holocaust </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(54).pdf" style="text-decoration:none;">Imposing Their Will: An Organizational History of Jewish Toronto, 1933–1948 </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(55).pdf" style="text-decoration:none;">In Our Own Voices: A Guide to Conducting Life History Interviews with American Jewish Women</a></b></li>      
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(56).pdf" style="text-decoration:none;">Jewish Medicine and Healthcare in Central Eastern Europe</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(57).pdf" style="text-decoration:none;">Jewish Women Pioneering the Frontier Trail </a></b></li>                                
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(59).pdf" style="text-decoration:none;">At the Edges of Liberalism: Junctions of European, German, and Jewish History </a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(60).pdf" style="text-decoration:none;">Jewish History: A Very Short Introduction</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(61).pdf" style="text-decoration:none;">Jewish Sports Legends  </a></b></li> 
 
 
 
