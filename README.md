@@ -142,6 +142,9 @@ Renaissance and Early Modern Period </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(100).pdf" style="text-decoration:none;">Suddenly Jewish </a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(101).pdf" style="text-decoration:none;">Inquisition: The Reign of Fear</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(103).pdf" style="text-decoration:none;">From Mesopotamia To Modernity: Ten Introductions To Jewish History And Literature</a></b></li>
+                                
 
  
  </ul>
