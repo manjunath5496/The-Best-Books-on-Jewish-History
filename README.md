@@ -137,7 +137,10 @@ Renaissance and Early Modern Period </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(97).pdf" style="text-decoration:none;">The Mystery of the Ten Lost Tribes: A Critical Survey of Historical and Archaeological Records relating to the People of Israel in Exile in Syria, Mesopotamia and Persia up to ca. 300 BCE </a></b></li> 
 
-
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(98).pdf" style="text-decoration:none;">Household Archaeology in Ancient Israel and Beyond</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(99).pdf" style="text-decoration:none;">The Roman Inquisition, the Index and the Jews</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(100).pdf" style="text-decoration:none;">Suddenly Jewish </a></b></li> 
 
 
  
