@@ -129,7 +129,13 @@ Renaissance and Early Modern Period </a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(92).pdf" style="text-decoration:none;">The Routledge Atlas of the Arab-Israeli Conflict </a></b></li> 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(93).pdf" style="text-decoration:none;">Troubling the Waters: Black-Jewish Relations in the American Century</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(94).pdf" style="text-decoration:none;">Israel's Exodus in Transdisciplinary Perspective </a></b></li>                                
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(95).pdf" style="text-decoration:none;">The Family in Life and in Death: The Family in Ancient Israel. Sociological and Archaeological Perspectives</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(96).pdf" style="text-decoration:none;">The Rise of Ancient Israel</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(97).pdf" style="text-decoration:none;">The Mystery of the Ten Lost Tribes: A Critical Survey of Historical and Archaeological Records relating to the People of Israel in Exile in Syria, Mesopotamia and Persia up to ca. 300 BCE </a></b></li> 
 
 
 
