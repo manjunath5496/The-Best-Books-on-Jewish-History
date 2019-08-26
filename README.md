@@ -1,19 +1,19 @@
 
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(1).pdf" style="text-decoration:none;">Conan Doyle for the Defence: A Sensational Murder, the Quest for Justice and the World's Greatest Detective Writer</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(2).pdf" style="text-decoration:none;">Samuel Roth, Infamous Modernist  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(3).pdf" style="text-decoration:none;">Stalin: A Political Biography </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(1).pdf" style="text-decoration:none;">Monsters and Monstrosity in Jewish History</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(2).pdf" style="text-decoration:none;">Rites and Passages: The Beginnings of Modern Jewish Culture in France, 1650-1860  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(3).pdf" style="text-decoration:none;">History of the Jews of Louisiana </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(4).pdf" style="text-decoration:none;">Wilhelm Marr: The Patriarch of Anti-Semitism</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(5).pdf" style="text-decoration:none;">Raoul Wallenberg: The Heroic Life and Mysterious Disappearance of the Man Who Saved Thousands of Hungarian Jews from the Holocaust</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(6).pdf" style="text-decoration:none;">Writer on the Run: German-Jewish Identity and the Experience of Exile in the Life and Work of Henry William Katz</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(7).pdf" style="text-decoration:none;">Moses Maimonides: The Man and His Works </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(8).pdf" style="text-decoration:none;">Nobel Prize Women in Science: Their Lives, Struggles, and Momentous Discoveries</a></b></li>      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(5).pdf" style="text-decoration:none;">The Golden Age Shtetl: A New History of Jewish Life in East Europe</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(6).pdf" style="text-decoration:none;">Interaction between Judaism and Christianity in History, Religion, Art and Literature</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(7).pdf" style="text-decoration:none;">Ancient Jewish History </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(8).pdf" style="text-decoration:none;">Legacy: A Genetic History of the Jewish People</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(9).pdf" style="text-decoration:none;">Sacred Trash: The Lost and Found World of the Cairo Geniza</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(10).pdf" style="text-decoration:none;">A Political Family: The Kuczynskis, Fascism, Espionage and The Cold War</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(11).pdf" style="text-decoration:none;">Golda Meir: A Political Biography</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(12).pdf" style="text-decoration:none;">Understanding the Difficult Words of Yeshua</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(13).pdf" style="text-decoration:none;">The Némirovsky Question: The Life, Death, and Legacy of a Jewish Writer in Twentieth-Century France</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(9).pdf" style="text-decoration:none;">Josephus and Jewish History in Flavian Rome and Beyond</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(10).pdf" style="text-decoration:none;">Doing Business in America: A Jewish History - The Jewish Role in American Life</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(11).pdf" style="text-decoration:none;">"What a breach you have made for yourself!": The History of Jewish Interpretations of Genesis 38</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(12).pdf" style="text-decoration:none;">The First Jewish Revolt: Archaeology, history, and ideology</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(13).pdf" style="text-decoration:none;">The Ascents of James: History and Theology of a Jewish-Christian Community</a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(14).pdf" style="text-decoration:none;">Bellow: A Biography </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(15).pdf" style="text-decoration:none;">Seema's show: A life on the left  </a></b></li>
