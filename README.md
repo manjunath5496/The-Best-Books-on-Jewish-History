@@ -15,11 +15,11 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(12).pdf" style="text-decoration:none;">The First Jewish Revolt: Archaeology, history, and ideology</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(13).pdf" style="text-decoration:none;">The Ascents of James: History and Theology of a Jewish-Christian Community</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(14).pdf" style="text-decoration:none;">Bellow: A Biography </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(15).pdf" style="text-decoration:none;">Seema's show: A life on the left  </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(16).pdf" style="text-decoration:none;">Nietzsche, God, and the Jews</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(14).pdf" style="text-decoration:none;">What Ifs of Jewish History: From Abraham to Zionism </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(15).pdf" style="text-decoration:none;">Global Jewish Foodways: A History  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(16).pdf" style="text-decoration:none;">The Archive Thief: The Man Who Salvaged French Jewish History in the Wake of the Holocaust</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(17).pdf" style="text-decoration:none;">Reuben Sachs: A Sketch</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(17).pdf" style="text-decoration:none;">The Impossible Jew: Identity and the Reconstruction of Jewish American Literary History</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(18).pdf" style="text-decoration:none;">Spinoza: A Life</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(19).pdf" style="text-decoration:none;">The Worlds of Sholem Aleichem: The Remarkable Life and Afterlife of the Man Who Created Tevye  </a></b></li>
