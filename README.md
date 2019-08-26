@@ -114,20 +114,20 @@ Renaissance and Early Modern Period </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(80).pdf" style="text-decoration:none;">David: Shepherd, Psalmist, King</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(81).pdf" style="text-decoration:none;">David and Solomon: In Search of the Bible's Sacred Kings and the Roots of the Western Tradition  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(50).pdf" style="text-decoration:none;">Kiev, Jewish Metropolis: A History, 1859-1914</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(51).pdf" style="text-decoration:none;">Major Turning Points in Jewish Intellectual History</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(52).pdf" style="text-decoration:none;">New Directions in Anglo-Jewish History</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(53).pdf" style="text-decoration:none;">The Plunder of Jewish Property during the Holocaust </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(54).pdf" style="text-decoration:none;">Imposing Their Will: An Organizational History of Jewish Toronto, 1933–1948 </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(55).pdf" style="text-decoration:none;">In Our Own Voices: A Guide to Conducting Life History Interviews with American Jewish Women</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(82).pdf" style="text-decoration:none;">David and Goliath</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(83).pdf" style="text-decoration:none;">Discovering Second Temple Literature: The Scriptures and Stories That Shaped Early Judaism</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(84).pdf" style="text-decoration:none;">An Introduction to Second Temple Judaism: History and Religion of the Jews in the Time of Nehemiah, the Maccabees, Hillel, and Jesus</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(85).pdf" style="text-decoration:none;"> Jews and Gentiles in the Holy Land in the Days of the Second Temple, Mishnah and Talmud</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(86).pdf" style="text-decoration:none;">Arab-Israeli Conflict: The Essential Reference Guide </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(87).rar" style="text-decoration:none;">Armoured Warfare in the Arab-Israeli Conflicts</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(56).pdf" style="text-decoration:none;">Jewish Medicine and Healthcare in Central Eastern Europe</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(57).pdf" style="text-decoration:none;">Jewish Women Pioneering the Frontier Trail </a></b></li>                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(88).pdf" style="text-decoration:none;">The Arab-Israeli Conflict: The Palestine War 1948</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(89).pdf" style="text-decoration:none;">King Solomon's Mines </a></b></li>                                
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(59).pdf" style="text-decoration:none;">At the Edges of Liberalism: Junctions of European, German, and Jewish History </a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(60).pdf" style="text-decoration:none;">Jewish History: A Very Short Introduction</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(90).pdf" style="text-decoration:none;">A History of the Jews and Judaism in the Second Temple Period, Volume 1 </a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(91).rar" style="text-decoration:none;">Struggles in the Promised Land: Towards a History of Black-Jewish Relations in the United States</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(61).pdf" style="text-decoration:none;">Jewish Sports Legends  </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/jhc(92).pdf" style="text-decoration:none;">The Routledge Atlas of the Arab-Israeli Conflict </a></b></li> 
 
 
 
