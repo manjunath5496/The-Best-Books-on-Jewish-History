@@ -66,16 +66,16 @@ Renaissance and Early Modern Period </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(48).pdf" style="text-decoration:none;">Jewish History : An Essay in the Philosophy of History</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(49).pdf" style="text-decoration:none;">The History of Jewish Education in South Africa  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(50).pdf" style="text-decoration:none;">Kiev, Jewish Metropolis: A History, 1859-1914</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(51).pdf" style="text-decoration:none;">Ana Pauker: The Rise and Fall of a Jewish Communist</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(52).pdf" style="text-decoration:none;">Alfred Kazin: A Biography</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(53).pdf" style="text-decoration:none;">Wandering Soul: The Dybbuk's Creator, S. An-sky </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(54).pdf" style="text-decoration:none;">Nazi Princess: Hitler, Lord Rothermere and Princess Stephanie von Hohenlohe </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(55).pdf" style="text-decoration:none;">Léon Blum: Prime Minister, Socialist, Zionist</a></b></li>      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(51).pdf" style="text-decoration:none;">Major Turning Points in Jewish Intellectual History</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(52).pdf" style="text-decoration:none;">New Directions in Anglo-Jewish History</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(53).pdf" style="text-decoration:none;">The Plunder of Jewish Property during the Holocaust </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(54).pdf" style="text-decoration:none;">Imposing Their Will: An Organizational History of Jewish Toronto, 1933–1948 </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(55).pdf" style="text-decoration:none;">In Our Own Voices: A Guide to Conducting Life History Interviews with American Jewish Women</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(56).pdf" style="text-decoration:none;">Becoming Freud: The Making of a Psychoanalyst</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(57).pdf" style="text-decoration:none;">John the Baptist - The Herald of Christ </a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(58).pdf" style="text-decoration:none;">If This Is a Man </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(59).pdf" style="text-decoration:none;">Moses Mendelssohn: the philosopher of the Enlightenment </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(56).pdf" style="text-decoration:none;">Jewish Medicine and Healthcare in Central Eastern Europe</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(57).pdf" style="text-decoration:none;">Jewish Women Pioneering the Frontier Trail </a></b></li>                                
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(59).pdf" style="text-decoration:none;">Moses Mendelssohn: the philosopher of the Enlightenment </a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(60).pdf" style="text-decoration:none;">Hitler's Shadow: Nazi War Criminals, U.S. Intelligence, and the Cold War</a></b></li>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(61).pdf" style="text-decoration:none;">The Dictionary of Jewish Biography  </a></b></li>                              
