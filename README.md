@@ -35,27 +35,27 @@ Renaissance and Early Modern Period </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(28).pdf" style="text-decoration:none;">Jewish History and Jewish Memory : Essays in Honor of Yosef Hayim Yerushalmi</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(29).pdf" style="text-decoration:none;">The Faith of Fallen Jews: Yosef Hayim Yerushalmi and the Writing of Jewish History</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(30).pdf" style="text-decoration:none;">You Never Call! You Never Write!: A History of the Jewish Mother</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(31).pdf" style="text-decoration:none;">Why This World: A Biography of Clarice Lispector</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(32).pdf" style="text-decoration:none;">The Enigma of Isaac Babel</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(31).pdf" style="text-decoration:none;">Jewish Economies: Development and Migration in America and Beyond</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(32).pdf" style="text-decoration:none;">Post-Holocaust: Interpretation, Misinterpretation, and the Claims of History</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(33).pdf" style="text-decoration:none;">Sydney and Violet: Their Life with T.S. Eliot, Proust, Joyce and the Excruciatingly Irascible Wyndham Lewis</a></b></li> 
- 
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(33).pdf" style="text-decoration:none;">Calendar and Community: A History of the Jewish Calendar, Second Century BCE–Tenth Century CE</a></b></li> 
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(34).pdf" style="text-decoration:none;">Too Good to Be True: The Life and Work of Leslie Fiedler</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(35).pdf" style="text-decoration:none;">To the End of the Earth: A History of the Crypto-Jews of New Mexico</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(36).pdf" style="text-decoration:none;">Nuclear Forces: The Making of the Physicist Hans Bethe</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(37).pdf" style="text-decoration:none;">Dr. Charles David Spivak: A Jewish Immigrant and the American Tuberculosis Movement</a></b></li>
-                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(38).pdf" style="text-decoration:none;">Philo of Alexandria: An Intellectual Biography </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(39).pdf" style="text-decoration:none;">The Maiden of Ludmir: A Jewish Holy Woman and Her World </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(40).pdf" style="text-decoration:none;">Ben-Gurion: Father of Modern Israel</a></b></li>
-                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(41).pdf" style="text-decoration:none;">Zealot: The Life and Times of Jesus of Nazareth</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(34).pdf" style="text-decoration:none;">The Jewish Unions in America: Pages of History and Memories</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(35).pdf" style="text-decoration:none;">The Chosen Game: A Jewish Basketball History</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(36).pdf" style="text-decoration:none;">History of the Jewish Nation after the Destruction of Jerusalem under Titus</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(42).pdf" style="text-decoration:none;">Roth Unbound: A Writer and His Books</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(43).pdf" style="text-decoration:none;">Jerome Robbins: A Life in Dance </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(38).pdf" style="text-decoration:none;">Revolutionary Yiddishland: A History of Jewish Radicalism </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(39).pdf" style="text-decoration:none;">As Light Before Dawn: The Inner World of a Medieval Kabbalist</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(40).pdf" style="text-decoration:none;">Wisdom of Solomon 10: A Jewish Hellenistic Reinterpretation of Early Israelite History through Sapiential Lenses</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(41).pdf" style="text-decoration:none;">A History of Modern Jewish Religious Philosophy</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(42).pdf" style="text-decoration:none;">Rewriting Ancient Jewish History: The History of the Jews in Roman Times and the New Historical Method</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(43).pdf" style="text-decoration:none;">Philosophy and the Jewish Tradition </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(44).pdf" style="text-decoration:none;">Straddling Worlds: The Jewish-American Journey of Professor Richard W. Leopold </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(45).pdf" style="text-decoration:none;">A Jewish Philosopher of Baghdad </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(46).pdf" style="text-decoration:none;">Who Was Jesus? Fingerprints of the Christ </a></b></li>
