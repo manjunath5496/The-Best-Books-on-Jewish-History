@@ -1,3 +1,67 @@
+<div class="NavHead"><strong><a class="mw-selflink selflink">History</a></strong></div>
+<div class="NavHead">&nbsp;</div>
+<div class="NavContent">
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Timeline of Jewish history" href="https://en.wikipedia.org/wiki/Timeline_of_Jewish_history">Timeline</a></li>
+<li><a title="Timeline of the name &quot;Judea&quot;" href="https://en.wikipedia.org/wiki/Timeline_of_the_name_%22Judea%22">Name "Judea"</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Jewish leadership" href="https://en.wikipedia.org/wiki/Jewish_leadership">Leaders</a></li>
+<li><a title="Twelve Tribes of Israel" href="https://en.wikipedia.org/wiki/Twelve_Tribes_of_Israel">Twelve Tribes of Israel</a></li>
+<li><a title="History of ancient Israel and Judah" href="https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah">Ancient history</a></li>
+<li><a title="Kingdom of Judah" href="https://en.wikipedia.org/wiki/Kingdom_of_Judah"><span class="wrap">Kingdom&nbsp;of Judah</span></a></li>
+<li><a title="Temple in Jerusalem" href="https://en.wikipedia.org/wiki/Temple_in_Jerusalem"><span class="wrap">Temple&nbsp;in Jerusalem</span></a></li>
+<li><a title="Babylonian captivity" href="https://en.wikipedia.org/wiki/Babylonian_captivity"><span class="wrap">Babylonian captivity</span></a></li>
+<li><a title="Assyrian captivity" href="https://en.wikipedia.org/wiki/Assyrian_captivity"><span class="wrap">Assyrian captivity</span></a></li>
+<li><a title="Yehud Medinata" href="https://en.wikipedia.org/wiki/Yehud_Medinata">Yehud Medinata</a></li>
+<li><a title="Second Temple" href="https://en.wikipedia.org/wiki/Second_Temple">Second Temple</a></li>
+<li><a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>&nbsp;(<a title="Jerusalem in Judaism" href="https://en.wikipedia.org/wiki/Jerusalem_in_Judaism">in&nbsp;Judaism</a></li>
+<li><a title="Timeline of Jerusalem" href="https://en.wikipedia.org/wiki/Timeline_of_Jerusalem">timeline</a>)</li>
+<li><a title="Hasmonean dynasty" href="https://en.wikipedia.org/wiki/Hasmonean_dynasty"><span class="wrap">Hasmonean dynasty</span></a></li>
+<li><a title="Sanhedrin" href="https://en.wikipedia.org/wiki/Sanhedrin">Sanhedrin</a></li>
+<li><a title="Jewish schisms" href="https://en.wikipedia.org/wiki/Jewish_schisms">Schisms</a></li>
+<li><a title="Pharisees" href="https://en.wikipedia.org/wiki/Pharisees">Pharisees</a></li>
+<li><a title="Hellenistic Judaism" href="https://en.wikipedia.org/wiki/Hellenistic_Judaism">Hellenistic Judaism</a></li>
+<li><a title="Jewish&ndash;Roman wars" href="https://en.wikipedia.org/wiki/Jewish%E2%80%93Roman_wars">Jewish&ndash;Roman wars</a></li>
+<li><a title="History of the Jews in the Byzantine Empire" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_Byzantine_Empire">History of the Jews in the Byzantine Empire</a></li>
+<li><a title="Christianity and Judaism" href="https://en.wikipedia.org/wiki/Christianity_and_Judaism"><span class="wrap">Christianity&nbsp;and Judaism</span></a></li>
+<li><a title="Hinduism and Judaism" href="https://en.wikipedia.org/wiki/Hinduism_and_Judaism"><span class="wrap">Hinduism&nbsp;and Judaism</span></a></li>
+<li><a title="Islamic&ndash;Jewish relations" href="https://en.wikipedia.org/wiki/Islamic%E2%80%93Jewish_relations"><span class="wrap"><span class="nowrap">Islamic&ndash;Jewish</span>&nbsp;relations</span></a></li>
+<li><a title="Jewish diaspora" href="https://en.wikipedia.org/wiki/Jewish_diaspora">Diaspora</a></li>
+<li><a class="mw-redirect" title="History of the Jews in the Middle Ages" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_Middle_Ages">Middle Ages</a></li>
+<li><a title="Golden age of Jewish culture in Spain" href="https://en.wikipedia.org/wiki/Golden_age_of_Jewish_culture_in_Spain">Golden Age</a></li>
+<li><a title="Sabbateans" href="https://en.wikipedia.org/wiki/Sabbateans">Sabbateans</a></li>
+<li><a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidism</a></li>
+<li><a title="Haskalah" href="https://en.wikipedia.org/wiki/Haskalah">Haskalah</a></li>
+<li><a title="Jewish emancipation" href="https://en.wikipedia.org/wiki/Jewish_emancipation">Emancipation</a></li>
+<li><a title="History of antisemitism" href="https://en.wikipedia.org/wiki/History_of_antisemitism">Antisemitism</a></li>
+<li><a title="Anti-Judaism" href="https://en.wikipedia.org/wiki/Anti-Judaism">Anti-Judaism</a></li>
+<li><a title="Persecution of Jews" href="https://en.wikipedia.org/wiki/Persecution_of_Jews">Persecution</a></li>
+<li><a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust">The Holocaust</a></li>
+<li><a title="History of Israel" href="https://en.wikipedia.org/wiki/History_of_Israel">Israel</a></li>
+<li><a title="Land of Israel" href="https://en.wikipedia.org/wiki/Land_of_Israel">Land of Israel</a></li>
+<li><a title="Aliyah" href="https://en.wikipedia.org/wiki/Aliyah">Aliyah</a></li>
+<li><a title="Jewish atheism" href="https://en.wikipedia.org/wiki/Jewish_atheism">Jewish atheism</a></li>
+<li><a title="Baal teshuva movement" href="https://en.wikipedia.org/wiki/Baal_teshuva_movement">Baal teshuva</a></li>
+<li><a title="Arab&ndash;Israeli conflict" href="https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict"><span class="wrap"><span class="nowrap">Arab&ndash;Israeli</span>&nbsp;conflict</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</br>
+
+
+
 <p><strong>Jewish history</strong>&nbsp;is the history of the&nbsp;<a title="Jews" href="https://en.wikipedia.org/wiki/Jews">Jews</a>, and their nation,&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">religion</a>&nbsp;and&nbsp;<a title="Jewish culture" href="https://en.wikipedia.org/wiki/Jewish_culture">culture</a>, as it developed and interacted with other peoples, religions and cultures. Although Judaism as a religion first appears in Greek records during the&nbsp;<a title="Hellenistic period" href="https://en.wikipedia.org/wiki/Hellenistic_period">Hellenistic period</a>&nbsp;(323 BCE &ndash; 31 BCE) and the earliest mention of&nbsp;<a title="Israelites" href="https://en.wikipedia.org/wiki/Israelites">Israel</a>&nbsp;is inscribed on the&nbsp;<a title="Merneptah Stele" href="https://en.wikipedia.org/wiki/Merneptah_Stele">Merneptah Stele</a>&nbsp;dated 1213&ndash;1203 BCE, religious literature tells the story of Israelites going back at least as far as c. 1500 BCE. The&nbsp;<a title="Jewish diaspora" href="https://en.wikipedia.org/wiki/Jewish_diaspora">Jewish diaspora</a>&nbsp;began with the&nbsp;<a title="Assyrian captivity" href="https://en.wikipedia.org/wiki/Assyrian_captivity">Assyrian captivity</a>&nbsp;and continued on a much larger scale with the&nbsp;<a title="Babylonian captivity" href="https://en.wikipedia.org/wiki/Babylonian_captivity">Babylonian captivity</a>. Jews were also widespread throughout the&nbsp;<a title="Roman Empire" href="https://en.wikipedia.org/wiki/Roman_Empire">Roman Empire</a>, and this carried on to a lesser extent in the period of&nbsp;<a title="Byzantine Empire" href="https://en.wikipedia.org/wiki/Byzantine_Empire">Byzantine</a>&nbsp;rule in the central and eastern&nbsp;<a class="mw-redirect" title="Mediterranean" href="https://en.wikipedia.org/wiki/Mediterranean">Mediterranean</a>. In 638 CE the Byzantine Empire lost control of the Levant. The Arab&nbsp;<a title="Rashidun Caliphate" href="https://en.wikipedia.org/wiki/Rashidun_Caliphate">Islamic Empire</a>&nbsp;under&nbsp;<a class="mw-redirect" title="Caliph Omar" href="https://en.wikipedia.org/wiki/Caliph_Omar">Caliph Omar</a>&nbsp;conquered&nbsp;<a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>&nbsp;and the lands of&nbsp;<a title="Mesopotamia" href="https://en.wikipedia.org/wiki/Mesopotamia">Mesopotamia</a>,&nbsp;<a title="History of Syria" href="https://en.wikipedia.org/wiki/History_of_Syria">Syria</a>, Palestine and Egypt. The&nbsp;<a class="mw-redirect" title="Golden Age of Jewish culture in Spain" href="https://en.wikipedia.org/wiki/Golden_Age_of_Jewish_culture_in_Spain">Golden Age of Jewish culture in Spain</a>&nbsp;coincided with the&nbsp;<a title="Middle Ages" href="https://en.wikipedia.org/wiki/Middle_Ages">Middle Ages</a>&nbsp;in Europe, a period of&nbsp;<a title="Al-Andalus" href="https://en.wikipedia.org/wiki/Al-Andalus">Muslim rule</a>&nbsp;throughout much of the&nbsp;<a title="Iberian Peninsula" href="https://en.wikipedia.org/wiki/Iberian_Peninsula">Iberian Peninsula</a>. During that time, Jews were generally accepted in society and Jewish religious, cultural, and economic life blossomed.</p>
 <p>During the Classical Ottoman period (1300&ndash;1600), the Jews, together with most other communities of the empire, enjoyed a certain level of prosperity. In the 17th century, there were many significant Jewish populations in Western Europe. During the period of the&nbsp;<a class="mw-redirect" title="European Renaissance" href="https://en.wikipedia.org/wiki/European_Renaissance">European Renaissance</a>&nbsp;and Enlightenment, significant changes occurred within the Jewish community. Jews began in the 18th century to campaign for emancipation from restrictive laws and integration into the wider European society. During the 1870s and 1880s the Jewish population in Europe began to more actively discuss emigration back to Israel and the re-establishment of the Jewish Nation in its national homeland. The Zionist movement was founded officially in 1897. Meanwhile, the Jews of Europe and the United States gained success in the fields of science, culture and the economy. Among those generally considered the most famous were scientist&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>&nbsp;and philosopher&nbsp;<a title="Ludwig Wittgenstein" href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Ludwig Wittgenstein</a>. Many&nbsp;<a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize">Nobel Prize</a>&nbsp;winners at this time were Jewish, as is still the case.</p>
 <p>In 1933, with the rise to power of&nbsp;<a title="Adolf Hitler" href="https://en.wikipedia.org/wiki/Adolf_Hitler">Adolf Hitler</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="Nazis" href="https://en.wikipedia.org/wiki/Nazis">Nazis</a>&nbsp;in&nbsp;<a title="Nazi Germany" href="https://en.wikipedia.org/wiki/Nazi_Germany">Germany</a>, the Jewish situation became more severe. Economic crises, racial&nbsp;<a title="Antisemitism in Europe" href="https://en.wikipedia.org/wiki/Antisemitism_in_Europe#The_Holocaust">anti-Semitic laws</a>, and a fear of an upcoming war led many Jews to flee from Europe to&nbsp;<a title="Mandatory Palestine" href="https://en.wikipedia.org/wiki/Mandatory_Palestine">Palestine</a>, to the United States and to the&nbsp;<a title="Soviet Union" href="https://en.wikipedia.org/wiki/Soviet_Union">Soviet Union</a>. In 1939&nbsp;<a title="World War II" href="https://en.wikipedia.org/wiki/World_War_II">World War II</a>&nbsp;began and until 1941 Hitler&nbsp;<a title="German-occupied Europe" href="https://en.wikipedia.org/wiki/German-occupied_Europe">occupied almost all of Europe</a>, including&nbsp;<a title="Occupation of Poland (1939&ndash;1945)" href="https://en.wikipedia.org/wiki/Occupation_of_Poland_(1939%E2%80%931945)">Poland</a>&mdash;where millions of Jews were living at that time&mdash;and&nbsp;<a title="German military administration in occupied France during World War II" href="https://en.wikipedia.org/wiki/German_military_administration_in_occupied_France_during_World_War_II">France</a>. In 1941, following the&nbsp;<a title="Operation Barbarossa" href="https://en.wikipedia.org/wiki/Operation_Barbarossa">invasion</a>&nbsp;of the Soviet Union, the&nbsp;<a title="Final Solution" href="https://en.wikipedia.org/wiki/Final_Solution">Final Solution</a>&nbsp;began, an extensive organized operation on an unprecedented scale, aimed at the annihilation of the Jewish people, and resulting in the persecution and murder of Jews in political Europe, inclusive of European&nbsp;<a title="North Africa" href="https://en.wikipedia.org/wiki/North_Africa">North Africa</a>&nbsp;(<a class="mw-redirect" title="French protectorate in Morocco" href="https://en.wikipedia.org/wiki/French_protectorate_in_Morocco">pro-Nazi</a>&nbsp;<a title="Vichy France" href="https://en.wikipedia.org/wiki/Vichy_France">Vichy</a>-<a title="French protectorate of Tunisia" href="https://en.wikipedia.org/wiki/French_protectorate_of_Tunisia">North</a>&nbsp;<a title="French Algeria" href="https://en.wikipedia.org/wiki/French_Algeria">Africa</a>&nbsp;and&nbsp;<a title="Italian Libya" href="https://en.wikipedia.org/wiki/Italian_Libya">Italian Libya</a>). This&nbsp;<a title="Genocide" href="https://en.wikipedia.org/wiki/Genocide">genocide</a>, in which approximately six million Jews were methodically exterminated, is known as&nbsp;<a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust">the Holocaust</a>&nbsp;or&nbsp;<em>Shoah</em>&nbsp;(Hebrew term). In Poland, three million Jews were killed in&nbsp;<a class="mw-redirect" title="Gas chambers" href="https://en.wikipedia.org/wiki/Gas_chambers">gas chambers</a>&nbsp;in all concentration camps combined, with one million at the&nbsp;<a class="mw-redirect" title="Auschwitz" href="https://en.wikipedia.org/wiki/Auschwitz">Auschwitz</a>&nbsp;camp complex alone.</p>
